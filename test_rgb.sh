@@ -1,0 +1,1 @@
+python main.py --input_type='rgb' --model='pretrained/NASAL.pth.tar' --net_config='pretrained/NASAL.config' --test_fold='demo/rgb_pre' --data_dir 'demo/rgb_img' --data_list 'demo/rgb.lst'

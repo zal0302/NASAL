@@ -1,0 +1,1 @@
+python main.py --input_type='rgbd' --model='pretrained/NASAL-D.pth.tar' --net_config='pretrained/NASAL-D.config' --test_fold='demo/rgbd_pre' --data_dir 'demo/rgbd_img' --data_list 'demo/rgbd.lst' --depth_dir 'demo/depth'
